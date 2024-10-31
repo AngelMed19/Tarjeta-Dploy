@@ -1,0 +1,12 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "number": "1234-5678-9012-3456",
+      "name": "Nombre Ejemplo",
+      "expiry": "12/25",       
+      "cvv": "123",             
+      "type": "Visa"           
+    }
+  ]
+}
